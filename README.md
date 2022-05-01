@@ -1,6 +1,6 @@
 # :rainbow:Molly React Profile
 
-![image]()
+![image](https://github.com/MollyXuemn/mollyReactfFile/blob/master/Images/MainPage.png)
 
 ## Built With
 
